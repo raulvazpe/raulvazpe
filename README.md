@@ -25,7 +25,7 @@
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
-<p align="center">
+<div align="center">
 
 
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -43,7 +43,7 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 
-</p>
+</div>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -72,16 +72,16 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/raulvazpe/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=Ionic-TareasApp&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/raulvazpe/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=AGENDA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/raulvazpe/Ionic-TareasApp" title="IonicTareasApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=Ionic-TareasApp&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/raulvazpe/AGENDA" title="Agenda"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=AGENDA&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/raulvazpe/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=Reubica&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/raulvazpe/Reubica" title="Reubica"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=raulvazpe&repo=Reubica&theme=react&border_color=61dafb&border_radius=10"></a>
 <!--
 <h4 align="center">
   <a href="https://github.com/raulvazpe?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-<div align="center">-->
+</h4>-->
+<div align="center">
 
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
 
