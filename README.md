@@ -23,7 +23,8 @@
 </p>
 
 <hr>
-<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
+<h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
+
 <br>
 <div align="center">
 
