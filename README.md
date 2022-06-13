@@ -7,20 +7,13 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/raulvazquezpedrera/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
-      <code>
-    <p>Raul Vázquez</p>
+
 
 </h5>
 <br>
 <p align="center">
   Hi, I'm Raúl Vazquez, FullStack developer Junior
   <br>
-
-  <br>
-  📫 How to reach me: <a href="mailto: raul.vazquez.96@gmail.com">raul.vazquez@gmail.com</a>
-</p>
 
 <hr>
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
