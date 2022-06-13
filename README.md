@@ -4,17 +4,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Raúl....;Nice+to+meet+you!&center=true&size=30">
   </a>
+  
 </h1>
-
-<h5 align="center">
-
-
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Raúl Vazquez, FullStack developer Junior
-  <br>
-
+<h2 align="center">👋 Hi, I'm Raúl Vazquez, FullStack developer Junior 👨‍💻</h2>
+<div align=center>
+  <code>
+    <a href="https://www.linkedin.com/in/raulvazquezpedrera/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
+      <code>
+    <p>Raul Vázquez</p>
+        </div>
 <hr>
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
