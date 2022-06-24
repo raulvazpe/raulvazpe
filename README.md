@@ -41,6 +41,8 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulvazpe&theme=great-gatsby)](https://git.io/streak-stats)
 <br>
 <p align=center>
   <div align=center>
