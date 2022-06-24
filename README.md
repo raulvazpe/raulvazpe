@@ -42,9 +42,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulvazpe&theme=great-gatsby)](https://git.io/streak-stats)
-  [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvazpe&theme=great-gatsby](https://github.com/raulvazpe/github-readme-stats)
-  [![Raul wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulvazpe&theme=great-gatsby)](https://github.com/raulvazpe/github-readme-stats)
+
 
 <br>
 <p align=center>
