@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/raulvazquezpedrera/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"></a></code>
       <code>
     <p>Raul Vázquez</p>
-        </div>
+</div>
 <hr>
 <h2 align="center">⚡Languages & Frameworks & Tools & Abilities ⚡</h2>
 
