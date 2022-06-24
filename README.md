@@ -42,18 +42,18 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulvazpe&theme=great-gatsby)](https://git.io/streak-stats)
-  [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvazpe&theme=great-gatsby)](https://github.com/raulvazpe/github-readme-stats)
-  [![Raul wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulvazpe&theme=great-gatsby)](https://github.com/raulvazpe/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulvazpe&theme=Javascript-dark)](https://git.io/streak-stats)
+  [![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulvazpe&theme=Javascript-dark)](https://github.com/raulvazpe/github-readme-stats)
+  [![Raul wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulvazpe&theme=Javascript-dark)](https://github.com/raulvazpe/github-readme-stats)
 
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raulvazpe&theme=react&border=61dafb&hide_border=true" alt="raulvazpe" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raulvazpe&theme=Javascript-dark&border=61dafb&hide_border=true" alt="raulvazpe" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raulvazpe&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raulvazpe&show_icons=true&theme=Javascript-dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -63,8 +63,8 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=raulvazpe&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
+  <img src="https://activity-graph.herokuapp.com/graph?username=raulvazpe&theme=Javascript-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  &theme=Javascript-dark
 
 </p>
 
