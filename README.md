@@ -65,7 +65,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=raulvazpe&theme=great-gatsby&bg_color=20232a&hide_border=true" width="100%"/>
   
-  &theme=react-dark&bg_color=20232a&hide_border=true
+
 </p>
 
 <hr>
